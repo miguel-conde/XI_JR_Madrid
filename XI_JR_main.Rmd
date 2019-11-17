@@ -1,0 +1,68 @@
+---
+title: "XI Jornadas R Madrid"
+author: "Miguel Conde"
+date: "17/11/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+[Summaries Book](http://r-es.org/XIjuR/pdf/LIBRO_RESUMENES_XI_Jornadas_de_Usuarios_R.pdf)
+
+# Main issues
+
+## Tidymodels - Maxh Kuhn
+
+https://github.com/topepo
+
+[Presentations](https://github.com/topepo/XIjuR-2019)
+
+## Modeling in the Tidyverse
+
+[Github - Tidymodels](https://github.com/tidymodels)
+[Github - Tidymodels sources](https://github.com/tidymodels/tidymodels)
+[A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+
+## Taller Max Kuhn - Designing R Modeling Packages.
+
+
+
+## MLR3 -  Bernd Bischl
+
+Bernd Bischl
+
+[Github](https://github.com/berndbischl)
+http://compstat-lmu.github.io/
+
+[Presentations](https://github.com/mlr-org/mlr-outreach/tree/master/2019_madrid)
+
+[mlr3 github](https://github.com/mlr-org/mlr3)
+[mlr3 github wiki](https://github.com/mlr-org/mlr3/wiki)
+[Github onlinebook](https://github.com/mlr-org/mlr3book)
+[Online Book rendered](https://mlr3book.mlr-org.com/)
+[mlr3.org](https://mlr3.mlr-org.com/index.html)
+[]
+
+## H20 -  Jo-Fai Chow
+
+https://github.com/woobe, http://www.jofaichow.co.uk/
+
+Automatic and explainable machine learning in R.
+
+[Presentation](https://docs.google.com/presentation/d/1ROL9omT2edThM15H6NLFphaDovI8gGcPb93RZBUTeyc/edit#slide=id.p1)
+[Tutorial github](https://github.com/woobe/useR2019_h2o_tutorial)
+[Tutrial - Rendered](https://nbviewer.jupyter.org/github/woobe/useR2019_h2o_tutorial/blob/master/tutorial.html)
+
+[(https://spark.rstudio.com/guides/h2o/)]
+
+[Machine Learning with R and H2O](https://www.h2o.ai/wp-content/uploads/2018/01/RBooklet.pdf)
+
+
+# Talleres
+
+## Programación R eficiente
+
+https://github.com/adolfoalvarez
+
+https://github.com/adolfoalvarez/r_eficiente
