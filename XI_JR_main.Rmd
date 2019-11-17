@@ -58,6 +58,7 @@ Automatic and explainable machine learning in R.
 
 [Machine Learning with R and H2O](https://www.h2o.ai/wp-content/uploads/2018/01/RBooklet.pdf)
 
+[h2o manual](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/welcome.html)
 
 # Talleres
 
