@@ -2,68 +2,113 @@
 title: "XI Jornadas R Madrid"
 author: "Miguel Conde"
 date: "17/11/2019"
-output: html_document
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_depth: 4
+    number_sections: true
+    toc_float: yes
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='center')
 ```
-[Summaries Book](http://r-es.org/XIjuR/pdf/LIBRO_RESUMENES_XI_Jornadas_de_Usuarios_R.pdf)
+
+
 
 # Main issues
 
+* [Web Jornadas](http://r-es.org/XIjuR)
+
+* [Summaries Book](http://r-es.org/XIjuR/pdf/LIBRO_RESUMENES_XI_Jornadas_de_Usuarios_R.pdf)
+
 ## Tidymodels - Maxh Kuhn
 
-https://github.com/topepo
+[Max Kuhn @ github](https://github.com/topepo)
 
-[Presentations](https://github.com/topepo/XIjuR-2019)
+* [Presentations](https://github.com/topepo/XIjuR-2019)
+
+* [Github - Tidymodels](https://github.com/tidymodels)
+
+* [Github - Tidymodels sources](https://github.com/tidymodels/tidymodels)
+
+* [A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
 
 ## Modeling in the Tidyverse
 
-[Github - Tidymodels](https://github.com/tidymodels)
-[Github - Tidymodels sources](https://github.com/tidymodels/tidymodels)
-[A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+* See presentation "Modeling in the Tidyverse" (`huhn.html`)
 
 ## Taller Max Kuhn - Designing R Modeling Packages.
 
+* See presentation "Designing R Modeling Packages" (`hardhat.html`)
 
 
 ## MLR3 -  Bernd Bischl
 
-Bernd Bischl
+[Bernd Bischl @ Github](https://github.com/berndbischl)
 
-[Github](https://github.com/berndbischl)
-http://compstat-lmu.github.io/
+<!-- http://compstat-lmu.github.io/ -->
 
-[Presentations](https://github.com/mlr-org/mlr-outreach/tree/master/2019_madrid)
+* [Presentations](https://github.com/mlr-org/mlr-outreach/tree/master/2019_madrid)
 
-[mlr3 github](https://github.com/mlr-org/mlr3)
-[mlr3 github wiki](https://github.com/mlr-org/mlr3/wiki)
-[Github onlinebook](https://github.com/mlr-org/mlr3book)
-[Online Book rendered](https://mlr3book.mlr-org.com/)
-[mlr3.org](https://mlr3.mlr-org.com/index.html)
-[]
+* [mlr3 github](https://github.com/mlr-org/mlr3)
+ 
+* [mlr3 github wiki](https://github.com/mlr-org/mlr3/wiki)
+ 
+* [Github onlinebook](https://github.com/mlr-org/mlr3book)
+ 
+* [Online Book rendered](https://mlr3book.mlr-org.com/)
+ 
+* [mlr3.org](https://mlr3.mlr-org.com/index.html)
+
 
 ## H20 -  Jo-Fai Chow
 
-https://github.com/woobe, http://www.jofaichow.co.uk/
+[Jo-fai Chow @ Github](https://github.com/woobe)
 
-Automatic and explainable machine learning in R.
+[Jo-fai Chow personal web](http://www.jofaichow.co.uk/)
 
-[Presentation](https://docs.google.com/presentation/d/1ROL9omT2edThM15H6NLFphaDovI8gGcPb93RZBUTeyc/edit#slide=id.p1)
-[Tutorial github](https://github.com/woobe/useR2019_h2o_tutorial)
-[Tutrial - Rendered](https://nbviewer.jupyter.org/github/woobe/useR2019_h2o_tutorial/blob/master/tutorial.html)
 
-[(https://spark.rstudio.com/guides/h2o/)]
+* [Presentation "Automatic and explainable machine learning in R"](https://docs.google.com/presentation/d/1ROL9omT2edThM15H6NLFphaDovI8gGcPb93RZBUTeyc/edit#slide=id.p1)
 
-[Machine Learning with R and H2O](https://www.h2o.ai/wp-content/uploads/2018/01/RBooklet.pdf)
+* [Presentation "Automatic and explainable machine learning in R"](bit.ly/XIJRes_h2o_2019)
 
-[h2o manual](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/welcome.html)
+* [Tutorial github](https://github.com/woobe/useR2019_h2o_tutorial)
+
+* [Tutrial - Rendered](https://nbviewer.jupyter.org/github/woobe/useR2019_h2o_tutorial/blob/master/tutorial.html)
+
+* [rsTUDIO - Sparkling Water (H2O) Machine Learning](https://spark.rstudio.com/guides/h2o/)
+
+* [Machine Learning with R and H2O](https://www.h2o.ai/wp-content/uploads/2018/01/RBooklet.pdf)
+
+* [h2o manual](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/welcome.html)
 
 # Talleres
 
-## Programación R eficiente
+## T1 - Aálisis de datos funcionales, regresión, clasificación y clustering funcional mediante la librería
+fda.usc
 
-https://github.com/adolfoalvarez
+## T2 - Herramientas de R para la investigación de mercados
 
-https://github.com/adolfoalvarez/r_eficiente
+[José Ignacio Casas Álvarez @ Github](https://github.com/JI-Casas)
+
+* [Materiales T2](https://github.com/JI-Casas/R4Social_Marketing_Research/)
+
+## T3 - Tips, trucos y algunos paquees para programación en R eficiente
+
+[Adolfo Álvarez @ Github](https://github.com/adolfoalvarez)
+
+* [Presentación](https://github.com/adolfoalvarez/r_eficiente)
+
+## T4 - Taller de introducción al análisis reticular de coincidencias
+
+# Comunicaciones
+
+## Gestión modelos y proyectos
+
+### Project delivering with R packages.
+
+### Gestión de la Capacidad en entornos Cloud mediante Análisis de Componentes Principales.
+
+### Gestión de modelos Python con Reticulate.
