@@ -35,11 +35,11 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='cen
 
 * [A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
 
-## Modeling in the Tidyverse
+### Modeling in the Tidyverse
 
 * See presentation "Modeling in the Tidyverse" (`huhn.html`)
 
-## Taller Max Kuhn - Designing R Modeling Packages.
+### Taller Max Kuhn - Designing R Modeling Packages.
 
 * See presentation "Designing R Modeling Packages" (`hardhat.html`)
 
