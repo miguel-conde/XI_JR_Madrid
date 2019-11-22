@@ -25,6 +25,12 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='cen
 
 * [Las Jornadas en video](https://canal.uned.es/series/5dc3f7d05578f252041fc22d)
 
+* En Twitter:
+
+    + [#XIJRes](https://twitter.com/hashtag/XIJRes?src=hash)
+    
+    + [Apertura de las Jorandas en Campus Repsol](https://twitter.com/search?l=&q=%23RepsolDigital%20since%3A2019-11-14%20until%3A2019-11-15&src=typd)
+
 ## Tidymodels - Maxh Kuhn
 
 [Max Kuhn @ github](https://github.com/topepo)
