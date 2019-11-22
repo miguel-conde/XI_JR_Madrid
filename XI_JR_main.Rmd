@@ -23,6 +23,8 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='cen
 
 * [Summaries Book](http://r-es.org/XIjuR/pdf/LIBRO_RESUMENES_XI_Jornadas_de_Usuarios_R.pdf)
 
+* [Las Jornadas en video](https://canal.uned.es/series/5dc3f7d05578f252041fc22d)
+
 ## Tidymodels - Maxh Kuhn
 
 [Max Kuhn @ github](https://github.com/topepo)
