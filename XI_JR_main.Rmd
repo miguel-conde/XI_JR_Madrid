@@ -43,7 +43,7 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='cen
 
 ### Taller Max Kuhn - Designing R Modeling Packages.
 
-* See presentation "Designing R Modeling Packages" (`hardhat.html`)
+* See presentation "Designing R Modeling Packages" (`hardhat.html`) and [video](https://canal.uned.es/video/5dd25b9f5578f275e407dd88)
 
 
 ## MLR3 -  Bernd Bischl
@@ -53,6 +53,8 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='cen
 <!-- http://compstat-lmu.github.io/ -->
 
 * [Presentations](https://github.com/mlr-org/mlr-outreach/tree/master/2019_madrid)
+
+* [Video](https://canal.uned.es/video/5dd24ff05578f27597289c03)
 
 * [mlr3 github](https://github.com/mlr-org/mlr3)
  
@@ -73,6 +75,8 @@ knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE, fig.align='cen
 
 
 * [Presentation "Automatic and explainable machine learning in R"](https://docs.google.com/presentation/d/1ROL9omT2edThM15H6NLFphaDovI8gGcPb93RZBUTeyc/edit#slide=id.p1)
+
+* [Video](https://canal.uned.es/video/5dd276cc5578f2770532480a)
 
 * [Presentation "Automatic and explainable machine learning in R"](bit.ly/XIJRes_h2o_2019)
 
@@ -114,3 +118,9 @@ fda.usc
 ### Gestión de la Capacidad en entornos Cloud mediante Análisis de Componentes Principales.
 
 ### Gestión de modelos Python con Reticulate.
+
+# Mesas Redondas
+
+* R en la empresa
+
+* Periodismo de Datos - [Video](https://canal.uned.es/video/5dd277425578f2770602906e)
