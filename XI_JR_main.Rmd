@@ -115,6 +115,12 @@ fda.usc
 
 ## T4 - Taller de introducción al análisis reticular de coincidencias
 
+* [Materiales T3](http://bit.ly/netCoin-Taller)
+
+* [Vignette paquete netCoin](https://cran.r-project.org/web/packages/netCoin/vignettes/netCoin.html)
+
+* [Aplicación a visualización de resultados Association Rules](http://sisifospage.tech/2019-11-24-arules-netcoin.html)
+
 # Comunicaciones
 
 ## Gestión modelos y proyectos
